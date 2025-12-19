@@ -62,10 +62,10 @@ const Index = () => {
         <div className="container flex h-16 items-center justify-between">
           <div className="flex items-center gap-2">
             <div className="w-10 h-10 rounded-full bg-primary flex items-center justify-center text-white font-bold">
-              ЕВ
+              ЮИ
             </div>
             <div>
-              <h1 className="text-lg font-bold text-foreground">Екатерина Владимировна</h1>
+              <h1 className="text-lg font-bold text-foreground">Юрьева Инна Анатольевна</h1>
               <p className="text-xs text-muted-foreground">Воспитатель высшей категории</p>
             </div>
           </div>
@@ -519,7 +519,7 @@ const Index = () => {
         <div className="container">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <div className="text-center md:text-left">
-              <p className="font-semibold">Екатерина Владимировна</p>
+              <p className="font-semibold">Юрьева Инна Анатольевна</p>
               <p className="text-sm text-muted-foreground">Воспитатель высшей категории</p>
             </div>
             <div className="text-center md:text-right text-sm text-muted-foreground">
