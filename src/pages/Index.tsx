@@ -117,7 +117,7 @@ const Index = () => {
                 <div className="flex flex-wrap gap-3">
                   <Badge variant="secondary" className="bg-white/20 text-white border-white/30 px-4 py-2 text-sm">
                     <Icon name="GraduationCap" size={16} className="mr-2" />
-                    Стаж 12 лет
+                    Стаж 26 лет
                   </Badge>
                   <Badge variant="secondary" className="bg-white/20 text-white border-white/30 px-4 py-2 text-sm">
                     <Icon name="Award" size={16} className="mr-2" />
@@ -178,7 +178,7 @@ const Index = () => {
               </CardHeader>
               <CardContent className="space-y-4">
                 <p>
-                  Здравствуйте! Я — воспитатель с высшей квалификационной категорией, имею педагогический стаж более 12 лет. 
+                  Здравствуйте! Я — воспитатель с высшей квалификационной категорией, имею педагогический стаж более 26 лет. 
                   Моя работа — это призвание, которому я отдаю всю душу.
                 </p>
                 <p>
